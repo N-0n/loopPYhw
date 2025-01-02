@@ -2,7 +2,7 @@
 num=int(input("Enter a positive integer : "))
 tot=0
 
-if num>0:
+if num>0 :
     y=str(num)
     x=len(y)
     for count in range(0,x):
